@@ -1,4 +1,6 @@
 # Digital-Payment-App
+
+<span style="font-size: larger;">This text is larger.</span> 
 **Introduction :**
 
 
