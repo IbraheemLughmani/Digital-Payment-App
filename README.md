@@ -1,7 +1,7 @@
 # Digital-Payment-App
 
 
-#**Introduction :**
+## Introduction :
 
 
 It is a digital payment app that harnesses the power of QR codes to facilitate transactions using points. Simply scan QR codes to instantly convert your points into real-world purchases, redefining the way you transact.
